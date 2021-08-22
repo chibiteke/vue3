@@ -22,3 +22,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### 
+Lesson Resources  
+[Configuring VS Code, ESLint + Prettier](https://www.vuemastery.com/blog/vs-code-for-vuejs-developers/)
